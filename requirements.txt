@@ -1,0 +1,8 @@
+Pillow
+matplotlib
+numpy
+moderngl
+moderngl-window
+opencv-python
+
+
