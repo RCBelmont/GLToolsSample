@@ -1,0 +1,3 @@
+[submodule "GLToolGore"]
+	path = GLToolGore
+	url = https://github.com/RCBelmont/GLToolCore.git
